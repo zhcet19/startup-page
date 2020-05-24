@@ -29,9 +29,8 @@
        <li><a href="#">About</a></li> 
        <li><a href="#">Contact</a></li>
        </ul> 
- 
       <ul class="nav navbar-nav navbar-right">
-       <li><a href="file:///C:/Users/FaizAlam/Documents/New%20folder/register.html">
+       <li><a href="#">
 <button>Sign in</button><i class="fa fa-user-plus"></i></a></li>
         <li><a href="file:///C:/Users/FaizAlam/Documents/New%20folder/login.html">
 <button>Login</button> <i class="fa fa-user"></i></a></li>
